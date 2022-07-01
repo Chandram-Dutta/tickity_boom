@@ -1,8 +1,10 @@
-# tickity_boom
+# Tick, Tick, *BOOM!!*
 
-A new Flutter project.
+This is my new portfolio website built using Flutter and a tinge of Firebase.
 
-## Getting Started
+Check out the old one [here](https://github.com/Chandram-Dutta/chandram_dutta)!
+
+#### To Get Started With Flutterrrrr💙
 
 This project is a starting point for a Flutter application.
 
